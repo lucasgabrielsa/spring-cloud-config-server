@@ -11,12 +11,12 @@
 			</arguments>
 		</buildCommand>
 		<buildCommand>
-			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<name>org.springframework.ide.eclipse.boot.validation.springbootbuilder</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
 		<buildCommand>
-			<name>org.springframework.ide.eclipse.boot.validation.springbootbuilder</name>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
@@ -29,7 +29,7 @@
 		<link>
 			<name>spring-cloud-config-git-resource</name>
 			<type>2</type>
-			<location>/home/dev-callink/pessoal-projects/microservices/spring-cloud-config-git-resource</location>
+			<location>C:/spring_microservices/spring-cloud-config-git-resource</location>
 		</link>
 	</linkedResources>
 </projectDescription>
