@@ -29,7 +29,7 @@
 		<link>
 			<name>spring-cloud-config-git-resource</name>
 			<type>2</type>
-			<location>C:/spring_microservices/spring-cloud-config-git-resource</location>
+			<location>/home/dev-callink/pessoal-projects/microservices/spring-cloud-config-git-resource</location>
 		</link>
 	</linkedResources>
 </projectDescription>
